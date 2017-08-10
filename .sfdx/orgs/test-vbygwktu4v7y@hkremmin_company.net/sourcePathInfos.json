@@ -2,14 +2,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1502353918000,
             "changeTime": 1502353918000,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1502353918000,
             "changeTime": 1502353918000,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,16 +32,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1502365801000,
+            "changeTime": 1502365801000,
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
             "isMetadataFile": false,
-            "size": 340,
-            "modifiedTime": 1502363500000,
-            "changeTime": 1502363500000,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -51,12 +49,11 @@
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1502365176000,
-            "changeTime": 1502365176000,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "size": 238,
+            "modifiedTime": 1502370724000,
+            "changeTime": 1502370724000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -76,14 +73,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3738,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "b377025363d7706339248d20aa32ea41a11a517f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -91,14 +88,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -106,14 +103,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -121,14 +118,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 755,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -136,14 +133,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -151,14 +148,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -166,14 +163,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -181,14 +178,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 944,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -196,14 +193,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -211,14 +208,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -226,14 +223,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -241,14 +238,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -256,14 +253,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -271,14 +268,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -286,14 +283,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -301,14 +298,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -316,14 +313,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -331,14 +328,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -346,14 +343,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 206,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -361,14 +358,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 415,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -376,14 +373,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 229,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -391,14 +388,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -406,14 +403,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -421,14 +418,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -436,14 +433,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -451,14 +448,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -466,14 +463,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 336,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -481,14 +478,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 383,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -496,14 +493,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1091,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -511,14 +508,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -526,14 +523,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -541,14 +538,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -556,14 +553,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -571,14 +568,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -586,14 +583,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -601,14 +598,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -616,14 +613,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 940,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -631,14 +628,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -646,14 +643,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -661,14 +658,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 747,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -676,14 +673,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -691,14 +688,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 213,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -706,14 +703,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -721,14 +718,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -736,14 +733,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 452,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -751,14 +748,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10769,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -766,14 +763,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10773,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -781,14 +778,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -796,14 +793,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -811,14 +808,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6297,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "efe67e348473c44f2d5c1eae78f54b4cd285b281",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -826,14 +823,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -841,14 +838,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -856,14 +853,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 1360,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -871,14 +868,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/webLinks",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -886,14 +883,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -901,14 +898,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -916,14 +913,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1502294243000,
             "changeTime": 1502294243000,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -931,14 +928,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1502353893000,
             "changeTime": 1502353893000,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -946,14 +943,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1502353966000,
             "changeTime": 1502353966000,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -961,14 +958,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1502353893000,
             "changeTime": 1502353893000,
             "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -976,14 +973,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1502354138000,
             "changeTime": 1502354138000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -991,29 +988,28 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1502366100000,
+            "changeTime": 1502366100000,
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
             "isMetadataFile": false,
-            "size": 183,
-            "modifiedTime": 1502365316000,
-            "changeTime": 1502365316000,
-            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1502354138000,
             "changeTime": 1502354138000,
             "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1021,14 +1017,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 92,
             "modifiedTime": 1502354718000,
             "changeTime": 1502354718000,
             "contentHash": "2252c3c8240606770ad85210fb6c35c3f304faa9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1036,14 +1032,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1502354138000,
             "changeTime": 1502354138000,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1051,14 +1047,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502354138000,
             "changeTime": 1502354138000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1066,14 +1062,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502354138000,
             "changeTime": 1502354138000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1081,14 +1077,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1096,14 +1092,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5659,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1111,14 +1107,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5999,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1126,14 +1122,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5663,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1141,14 +1137,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17987,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "269d4d2a932201b433e89748edbb730792a8f70f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1156,14 +1152,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1171,14 +1167,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1502363500000,
             "changeTime": 1502363500000,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1186,14 +1182,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1502365176000,
             "changeTime": 1502365176000,
             "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1205,25 +1201,24 @@
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 398,
-            "modifiedTime": 1502365217000,
-            "changeTime": 1502365217000,
-            "contentHash": "29094a6dc983819f0b1ee5e2600440597845c4ab",
+            "size": 467,
+            "modifiedTime": 1502371049000,
+            "changeTime": 1502371049000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "12e46459b5b4c4f9b32f18f38acbccb41f62d44b"
         }
     ],
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1502365176000,
             "changeTime": 1502365176000,
             "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1231,14 +1226,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 112,
             "modifiedTime": 1502365284000,
             "changeTime": 1502365284000,
             "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1250,25 +1245,24 @@
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1502365254000,
-            "changeTime": 1502365254000,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
+            "size": 396,
+            "modifiedTime": 1502370881000,
+            "changeTime": 1502370881000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
         }
     ],
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502365176000,
             "changeTime": 1502365176000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1276,14 +1270,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502365176000,
             "changeTime": 1502365176000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1291,14 +1285,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1502363555000,
             "changeTime": 1502363555000,
             "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1306,14 +1300,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 122,
             "modifiedTime": 1502365101000,
             "changeTime": 1502365101000,
             "contentHash": "ec7c31bb2adfad823ca201c24ed89618a3d26301",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1321,14 +1315,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1502363555000,
             "changeTime": 1502363555000,
             "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1336,14 +1330,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 171,
             "modifiedTime": 1502365139000,
             "changeTime": 1502365139000,
             "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1351,14 +1345,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1502363555000,
             "changeTime": 1502363555000,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1366,14 +1360,14 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502363555000,
             "changeTime": 1502363555000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1381,16 +1375,185 @@
     [
         "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502363555000,
             "changeTime": 1502363555000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1502365801000,
+            "changeTime": 1502365801000,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 480856,
+            "modifiedTime": 1502365801000,
+            "changeTime": 1502365801000,
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502365801000,
+            "changeTime": 1502365801000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1502365926000,
+            "changeTime": 1502365926000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 335,
+            "modifiedTime": 1502371027000,
+            "changeTime": 1502371027000,
+            "contentHash": "26ed786b236292be1cb24c02d075f1624283a89a"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1502365926000,
+            "changeTime": 1502365926000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 43,
+            "modifiedTime": 1502366057000,
+            "changeTime": 1502366057000,
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 833,
+            "modifiedTime": 1502370947000,
+            "changeTime": 1502370947000,
+            "contentHash": "18f4fd50338b5b4c6e7b4c74030eb967ef3a9a46"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1502365926000,
+            "changeTime": 1502365926000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1502365926000,
+            "changeTime": 1502365926000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502370724000,
+            "changeTime": 1502370724000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1502370796000,
+            "changeTime": 1502370796000,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
+        }
+    ],
+    [
+        "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkremmin/dev/_dx/trailhead/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1502370724000,
+            "changeTime": 1502370724000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
